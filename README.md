@@ -15,7 +15,7 @@ caption: screenshot after clicking submit
 ## Installation
 N/A
 ## Usage
-Go to the following URL:
+Go to the following URL:  https://nick-mccarthy.github.io/Password-Generator/
 
 ## Credits
 Karen Peazzoni: https://github.com/kpeazzoni/UTA-JS-Challenge-3
