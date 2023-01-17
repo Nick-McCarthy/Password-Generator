@@ -1,19 +1,16 @@
-# Bootcamp-Work-Day-Planner
-
+# Password Generator
+A password generator that asks if you want to include letters (upper & lower), symbols, and numbers
 
 ## Description
 
-caption:
+caption: screenshot before clicking submit
 <br>
-![<img src=".png" width="250"/>](images/.png)
+![<img src="password-generator-before.png" width="250"/>](images/password-generator-before.png)
 <br>
-caption:
+caption: screenshot after clicking submit
 <br>
-![<img src=".png" width="250"/>](images/.png)
+![<img src="password-generator-after.png" width="250"/>](images/password-generator-after.png)
 <br>
-caption:
-<br>
-![<img src=".png" width="250"/>](images/.png)
 
 ## Installation
 N/A
