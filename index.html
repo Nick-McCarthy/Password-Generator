@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Password Generator</title>
+</head>
+<body>
+  <h1>Password Generator</h1>
+  <form>
+    <label for="passwordLength">Password Length:</label>
+    <input type="number" id="passwordLength" min="8" max="128" required>
+    <br>
+    <input type="checkbox" id="includeNumbers" checked>
+    <label for="includeNumbers">Include Numbers</label>
+    <br>
+    <input type="checkbox" id="includeLowercase" checked>
+    <label for="includeLowercase">Include Lowercase Letters</label>
+    <br>
+    <input type="checkbox" id="includeUppercase" checked>
+    <label for="includeUppercase">Include Uppercase Letters</label>
+    <br>
+    <input type="checkbox" id="includeSymbols" checked>
+    <label for="includeSymbols">Include Symbols</label>
+    <br>
+    <button type="button" onclick="generatePassword()">Generate Password</button>
+  </form>
+  <br>
+  <textarea id="password" rows="2" readonly></textarea>
+
+  <script src="assets/js/script.js"></script>
+</body>
+</html>
